@@ -33,3 +33,4 @@
 /Users/gauravkumar/Documents/Programentor/56 Web API Project/WebAPIProject/obj/Debug/net6.0/WebAPIProject.pdb
 /Users/gauravkumar/Documents/Programentor/56 Web API Project/WebAPIProject/obj/Debug/net6.0/WebAPIProject.genruntimeconfig.cache
 /Users/gauravkumar/Documents/Programentor/56 Web API Project/WebAPIProject/obj/Debug/net6.0/ref/WebAPIProject.dll
+/Users/gauravkumar/Documents/Programentor/56 Web API Project/WebAPIProject/obj/Debug/net6.0/WebAPIProject.sourcelink.json
